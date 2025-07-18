@@ -150,7 +150,7 @@ body {
   }
 
   .contact-section {
-    max-width: 500px; /* smaller than before */
+    max-width: 500px; /* Made them smaller than before */
     margin: 60px auto; /* vertical + horizontal centering */
     padding: 20px;
     text-align: center;
