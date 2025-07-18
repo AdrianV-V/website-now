@@ -189,8 +189,8 @@ body {
   button:hover {
     background-color: #005f91;
   }
-  
-  /* Responsive scaling  */
+   
+  /* Responsive scaling for the mobile app */
   @media (max-width: 600px) {
     .contact-section {
       padding: 15px;
