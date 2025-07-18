@@ -190,7 +190,7 @@ body {
     background-color: #005f91;
   }
   
-  /* Responsive scaling (optional) */
+  /* Responsive scaling  */
   @media (max-width: 600px) {
     .contact-section {
       padding: 15px;
