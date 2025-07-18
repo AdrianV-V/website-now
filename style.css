@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);;
+  }
+
+  h1 {
+    color: #ffffff;
+  }
+
+  p {
+    color: whitesmoke;
+  }
+  
+  nav {
+    background-color: transparent;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .container {
+    padding: 2em;
+  }
+
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .center-img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  .center-img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;         /* Smaller size */
+    height: auto;         /* Keeps aspect ratio */
+    border-radius: 60px;  /* Rounded corners */
+  }
+
+  .container p {
+    font-size: 18px;         /* Fixed, readable size */
+    max-width: 800px;        /* Prevents overly wide lines */
+    margin: 0 auto;          /* Centers the paragraph */
+    line-height: 1.6;        /* Improves readability */
+  }
+
+  .button-group {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007BFF; /* Blue color */
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
